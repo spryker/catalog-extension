@@ -6,4 +6,7 @@
     <transfer name="ProductConcreteCriteriaFilter">
     </transfer>
 
+    <transfer name="ProductConcretePageSearch">
+    </transfer>
+
 </transfers>
